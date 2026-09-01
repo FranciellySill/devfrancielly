@@ -29,31 +29,13 @@ Também tenho experiência com **testes manuais, APIs, banco de dados e desenvol
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📊 GitHub Analytics
-<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&count_private=true"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true"/> </div>
+<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DevFrancielly&show_icons=true&theme=transparent&hide_border=true&count_private=true"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFrancielly&layout=compact&theme=transparent&hide_border=true"/> </div>
 
 🐍 Minha atividade no GitHub
 <div align="center">
 
 </div>
 
-📈 Atualmente
-🧪 QA Automation
-████████████████████████████████████████  100%
-
-🔌 API Testing
-██████████████████████████████████████░░  90%
-
-🤖 Cypress
-██████████████████████████████████████░░  90%
-
-💻 JavaScript
-████████████████████████████████████░░░░  85%
-
-🎭 Playwright
-████████████████████████████████░░░░░░░░  80%
-
-⚛️ Front-End
-██████████████████████████████░░░░░░░░░░  75%
 
 <div align="center">
 👩🏻‍💻 Let's build better software.
