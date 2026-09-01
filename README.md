@@ -28,22 +28,7 @@ Também tenho experiência com **testes manuais, APIs, banco de dados e desenvol
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=DevFrancielly&show_icons=true&theme=transparent&hide_border=true&count_private=true"
-/>
-
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFrancielly&layout=compact&theme=transparent&hide_border=true"
-/>
-
-</div>
-
+![Repositórios](https://img.shields.io/github/repos/DevFrancielly?style=flat&logo=github)
 
 ## 🐍 Minha atividade no GitHub
 
