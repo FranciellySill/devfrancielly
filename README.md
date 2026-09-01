@@ -28,15 +28,31 @@ Também tenho experiência com **testes manuais, APIs, banco de dados e desenvol
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📊 GitHub Analytics
-<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devfrancielly&show_icons=true&theme=transparent&hide_border=true&count_private=true"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfrancielly&layout=compact&theme=transparent&hide_border=true"/> </div>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=DevFrancielly&show_icons=true&theme=transparent&hide_border=true&count_private=true"
+/>
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFrancielly&layout=compact&theme=transparent&hide_border=true"
+/>
+
+</div>
 
 
 ## 🐍 Minha atividade no GitHub
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg)
+<img
+  src="https://raw.githubusercontent.com/DevFrancielly/devfrancielly/gh-pages/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
 
