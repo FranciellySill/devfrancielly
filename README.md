@@ -28,8 +28,6 @@ Também tenho experiência com **testes manuais, APIs, banco de dados e desenvol
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Repositórios](https://img.shields.io/github/repos/DevFrancielly?style=flat&logo=github)
-
 ## 🐍 Minha atividade no GitHub
 
 <div align="center">
@@ -49,4 +47,4 @@ QA • Automation • Code • Quality
 
 <br>
 
-</div> ```
+</div>
